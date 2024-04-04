@@ -1,11 +1,18 @@
 body{
-    background-color: burlywood;
+    background-color: black;
 }
-.class{
-font-size: x-large;    
-color: red;
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
 }
-#id{
-font-size: medium;    
-color: aquamarine;
+button{
+    border: none;
+    outline: none;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    font-family: "Prosto One", sans-serif;
+    font-size: large;
 }
