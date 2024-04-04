@@ -7,12 +7,3 @@ body{
     justify-content: space-around;
     align-items: center;
 }
-button{
-    border: none;
-    outline: none;
-    background-color: black;
-    color: white;
-    cursor: pointer;
-    font-family: "Prosto One", sans-serif;
-    font-size: large;
-}

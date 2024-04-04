@@ -1,0 +1,25 @@
+button{
+    border: none;
+    outline: none;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    font-family: "Prosto One", sans-serif;
+    font-size: large;
+}
+#botão1{
+    position: relative;
+    right: 500px
+}
+#botão2{
+    position: relative;
+    right: 200px;
+}
+#botão3{
+    position: relative;
+    left: 200px;
+}
+#botão4{
+    position: relative;
+    left: 500px;
+}
